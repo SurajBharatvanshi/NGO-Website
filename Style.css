@@ -24,7 +24,7 @@
 /* Hero */
 .hero {
   background: linear-gradient(rgba(58,99,81,0.82), rgba(58,99,81,0.82)), 
-    url('/Sources/Hero\ Sec\ img.jpg') center/cover no-repeat;
+    url('Sources/Hero Sec img.jpg') center/cover no-repeat;
   min-height: 400px;
   color: #fff;
   text-shadow: 2px 2px 14px #222;
